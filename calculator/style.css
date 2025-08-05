@@ -1,5 +1,5 @@
 .calculator {
-    border: 3px solid #4CAF50;
+    border: 3px solid #080a08;
     border-radius: 15px;
     padding: 30px 40px;
     width: 320px;
@@ -65,4 +65,5 @@
 
 .number-select:hover {
     background: #c8f7c5;
+
 }
